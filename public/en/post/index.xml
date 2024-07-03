@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Articles on My New Hugo Site</title>
+    <link>http://localhost:1313/en/post/</link>
+    <description>Recent content in Articles on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter VI: Esmeralda</title>
       <link>http://localhost:1313/en/post/chapter-6/</link>
@@ -44,39 +44,11 @@
       <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.&#xA;“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
     </item>
     <item>
-      <title>Chapitre I: La grande halle</title>
-      <link>http://localhost:1313/fr/post/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/fr/post/chapter-1/</guid>
-      <description>Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d&amp;rsquo;attente. L&amp;rsquo;avantage de le mettre en latin est que l&amp;rsquo;opérateur sait au premier coup d&amp;rsquo;oeil que la page contenant ces lignes n&amp;rsquo;est pas valide, et surtout l&amp;rsquo;attention du client n&amp;rsquo;est pas dérangée par le contenu, il demeure concentré seulement sur l&amp;rsquo;aspect graphique.</description>
-    </item>
-    <item>
       <title>Chapter I: The Grand Hall</title>
       <link>http://localhost:1313/en/post/chapter-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <guid>http://localhost:1313/en/post/chapter-1/</guid>
       <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.&#xA;The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/en/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/about/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/en/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.&#xA;Your Name Email Address An email address is required. Message </description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/fr/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/contact/</guid>
-      <description>Ceci est la page de contact en Français.&#xA;This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.&#xA;Your Name Email Address An email address is required. Message </description>
     </item>
   </channel>
 </rss>
